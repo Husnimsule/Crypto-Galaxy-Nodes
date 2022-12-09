@@ -180,7 +180,7 @@ h2{
     /* border: 1px solid rgb(102, 101, 101);  */
     background: rgba(255, 255, 255, 0.02);
     /* background-color: transparent; */
-    /* border-radius: 7px; */
+    border-radius: 7px; 
     width: 230px;
     height: 200px;
     padding-left: 20px;
@@ -648,7 +648,7 @@ li{
     /* border: 1px solid rgb(102, 101, 101);  */
     background: rgba(255, 255, 255, 0.02);
     /* background-color: transparent; */
-    /* border-radius: 7px; */
+    border-radius: 7px; 
     width: 230px;
     height: 200px;
     padding-left: 20px;
