@@ -335,6 +335,7 @@ font-size: 25px;
     gap: 15px;
     justify-content: center;
     margin-bottom: 20px;
+    border-radius: 10px;
 } 
 .freq{
     color: #fff;
@@ -366,7 +367,6 @@ font-size: 25px;
         display:flex;
      } 
      .big{
-       
         margin: 10px 0px 10px 20px;
      }
      .gbm{
@@ -376,13 +376,16 @@ font-size: 25px;
      .same{
         background: rgba(255, 255, 255, 0.02);
         border-radius: 10px;
-        width:295px;
+        width:280px;
         height:400px;
-        padding: 0px 0px 20px 0px; 
+        padding: 0px 0px 10px 0px; 
         gap: 5px;
         margin: 10px 0px 10px 20px;
         display: inline-block;
         
+     }
+     .crypmg{
+        width:280px ;
      }
      .crypto{
      background-color: rgba(47, 47, 102, 0.39);
@@ -399,7 +402,7 @@ font-size: 25px;
      }
      .txt{
         color: #fff;
-        font-size: 15;
+        font-size: 15px;
         font-weight: 700;
         margin: 15px 0px 0px 15px;
      }
